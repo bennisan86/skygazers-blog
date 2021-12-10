@@ -1,5 +1,5 @@
 ---
-title: Edited title here
+title: Edited title again
 subtitle: Awake is Built to Be Blazing Fast
 category:
   - About Awake
